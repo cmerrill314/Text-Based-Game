@@ -1,0 +1,26 @@
+﻿This is the cheat sheet if you want to beat the game:
+
+1.	Obtain the mirror from the King’s chambers.
+
+2.	Use the mirror to reflect the light from the Grand Hall to light a torch. 
+    	(Examine the light once you have the mirror)
+
+3.	Use the lit torch to illuminate the dungeon, and talk to the princess to 
+    	obtain the royal jewel from the princess.
+
+4.	Use the royal jewel to unlock the Hidden Treasury.
+    	(Place the jewel in the gargoyles eye)
+
+5.	Obtain the golden shield from the treasury by examining the chest.
+
+6.	Use the golden shield to free the hero’s sword from the encasement in the library.
+    	(Examine the sword after you have the golden shield)
+
+7.	Go to the tower and initiate the fight sequence with the dragon 
+    	(similar to the die game fight sequences).
+
+8.	Obtain the dungeon key by defeating the dragon.
+    	(if you have no room in your inventory when you defeat the dragon, you have to
+	manage your inventory and then search the tower room)
+
+9.	Talk to the princess in the dungeon.
