@@ -1,3 +1,5 @@
+![alt tag](https://github.com/cmerrill314/thiefs_dilemma/blob/master/thiefs_dilemma.jpg?raw=true)
+
 # Thiefs Dilemma
 A simple text-based C++ game that I made for a final project in my Intro to Computer Science II course (CS162) at Oregon State University.
 The student with the most interesting game in the class was awarded with extra credit, and this program was deemed the most interesting!
