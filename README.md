@@ -2,7 +2,6 @@
 
 # Thiefs Dilemma
 A simple text-based C++ game that I made for a final project in my Intro to Computer Science II course (CS162) at Oregon State University.
-The student with the most interesting game in the class was awarded with extra credit, and this program was deemed the most interesting!
 
 # Plot Overview
 
@@ -18,5 +17,5 @@ if you want to do the right thing and rescue the princess.
 The idea was to utilize polymorphism and OOP by creating generic Space objects. In this game, the space objects are the rooms of the 
 castle. The Game class controls the actual logic of the game and main.cpp runs the program along with the main menu.
 
-The .txt files included contain the ASCII art that is used to add more depth to the game. 
+The .txt files included contain the ASCII art that is used in the game. 
 
